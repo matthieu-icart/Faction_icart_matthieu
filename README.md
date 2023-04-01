@@ -30,6 +30,3 @@ Projet / Création d'un Test de Personnalité
 - > Klein = Technocratie
 - > Sinklair = Théocratie
 - > Royce = Monarchie
-
-
-# Si vous le souhaitez, n'hésitez pas à me partager vos résultats ! 
