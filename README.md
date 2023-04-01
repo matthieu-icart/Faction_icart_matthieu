@@ -9,7 +9,7 @@ Projet / Création d'un Test de Personnalité
 - > NoData
 
 # Dependances
-- > Utilisation de la libraty Font-Awesome pour la gestion des Icones
+- > Utilisation de la librairie Font-Awesome pour la gestion des Icones
 - > Prettier pour automatiser l'indentation
 - > Google Fonts : VT323
 - > REACT & Modules
